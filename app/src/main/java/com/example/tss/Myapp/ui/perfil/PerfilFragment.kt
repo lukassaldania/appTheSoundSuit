@@ -5,8 +5,6 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.tss.R
-import com.example.tss.databinding.FragmentBuscarBinding
 import com.example.tss.databinding.FragmentPerfilBinding
 
 class PerfilFragment : Fragment() {
